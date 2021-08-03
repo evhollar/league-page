@@ -8,7 +8,7 @@ export const managers = [
     "bio": "",
     "photo": "/managers/name.jpg", // done
     "fantasyStart": 2017, // when did the manager start playing fantasy football
-    "favoriteTeam": "nep", // favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
+    "favoriteTeam": "ne", // favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
     "mode": "Win Now", // 'Win Now' or 'Rebuild'
     "rival": {
       name: "Rival", // Can be anything (usually your rival's name)
