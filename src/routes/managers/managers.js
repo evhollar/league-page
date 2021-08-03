@@ -3,7 +3,7 @@ export const managers = [
   {
     "roster": 1,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
     "name": "Evan Hollar",
-    "tookOver": , // (optional) used if a manager took over a team, delete this line or change to null otherwise
+    "tookOver": "", // (optional) used if a manager took over a team, delete this line or change to null otherwise
     "location": "Burlington, VT",
     "bio": "",
     "photo": "/managers/name.jpg", // done
